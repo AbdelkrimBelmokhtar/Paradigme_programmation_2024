@@ -15,38 +15,38 @@ public class Livre {
 
 	}
 
-	public String gettitre(String titre) {
+	public String getTitre(String titre) {
 
 		return this.titre;
 	}
 
-	public String getauteur(String auteur) {
+	public String getAuteur(String auteur) {
 		return this.auteur;
 	}
 
-	public String getisbn(String isbn) {
+	public String getIsbn(String isbn) {
 		return this.isbn;
 
 	}
 
-	public Boolean getdisponible(Boolean disponible) {
+	public Boolean getDisponible(Boolean disponible) {
 		return this.disponible = disponible;
 	}
 
-	public String settitre(String titre) {
+	public String setTitre(String titre) {
 		return this.titre = titre;
 	}
 
-	public String setauteur(String auteur) {
+	public String setAuteur(String auteur) {
 		return this.auteur = auteur;
 	}
 
-	public String setisbn(String isbn) {
+	public String setIsbn(String isbn) {
 		return this.isbn = isbn;
 
 	}
 
-	public Boolean setdisponible(Boolean disponible) {
+	public Boolean setDisponible(Boolean disponible) {
 		return this.disponible = disponible;
 	}
 
